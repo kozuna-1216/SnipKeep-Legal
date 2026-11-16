@@ -7,7 +7,7 @@ SnipKeep のプライバシーポリシーと利用規約を公開する静的�
 
 ## 公開
 
-`main` ブランチへの push または GitHub Actions の手動実行で GitHub Pages にデプロイします。ページは HTML/CSS のみで構成されています。
+GitHub Pages を初めて使うときは、リポジトリの **Settings → Pages → Build and deployment → Source** で **GitHub Actions** を選択してください。その後、`main` ブランチへの push または **Actions → Deploy static site to GitHub Pages → Run workflow** でデプロイできます。ページは HTML/CSS のみで構成されています。
 
 ## ポリシー更新時の確認事項
 
